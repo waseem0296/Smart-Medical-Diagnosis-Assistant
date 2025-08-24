@@ -1,0 +1,10 @@
+flask
+flask-cors
+streamlit
+requests
+python-dotenv
+groq
+gtts
+pydub
+SpeechRecognition
+google-generativeai
